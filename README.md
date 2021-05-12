@@ -4,4 +4,5 @@ Evaluation of the segmented vascular structures of the retina of our eye obtaine
 DRIVE and STARE Dataset obtained from - https://www.medicmind.tech/retinal-image-databases#:~:text=Digital%20Retinal%20Images%20for%20Vessel%20Extraction%20%28DRIVE%29%20database,images%20in%20this%20database%20is%20565%20X%20584.
 
 Add all files into the path of MATLAB before running
+
 Run 'Project_retina.fig'
